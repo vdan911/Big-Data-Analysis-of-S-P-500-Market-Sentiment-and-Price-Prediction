@@ -2,7 +2,7 @@
 This project uses web scraping to collect sentiment and historical price data for the S&amp;P 500. Sentiment data is analysed to assess market mood, while time series forecasting is applied to predict index movements over the next 10 days, combining sentiment insights with financial analysis.
 
 
-project
+project *broken into modular code*
 - data_collection.py
 - data_preprocessing.py
 - visualization.py
