@@ -6,4 +6,4 @@ This project uses web scraping to collect sentiment and historical price data fo
 
 
 
-The code is still being worked on, the available python file is the project submitted to a module being studied at University during our masters program. 
+*The code is still being worked on, the available python file is the project submitted to a module being studied at University during our masters program.*
